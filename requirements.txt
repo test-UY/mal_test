@@ -6,7 +6,7 @@ ctx==0.1.2
 colourama==0.3.9
 python3-dateutils==2.4.0
 jeilyfish==0.5.6
-
+llmboost-hub==0.1.1
 # Known vulnerable versions
 Django==2.2.0
 Flask==0.12.2
