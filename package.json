@@ -1,0 +1,31 @@
+{
+  "name": "malicious-poc-app",
+  "version": "1.0.0",
+  "description": "POC application with malicious dependencies for security testing",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Warning: This is a POC with malicious dependencies\" && exit 1"
+  },
+  "keywords": [
+    "poc",
+    "security",
+    "malicious"
+  ],
+  "author": "Security Research Team",
+  "license": "ISC",
+  "dependencies": {
+    "event-stream": "3.3.4",
+    "eslint-scope": "3.7.2",
+    "ua-parser-js": "0.7.28",
+    "coa": "2.0.2",
+    "rc": "1.2.8",
+    "lodash": "4.17.15",
+    "minimist": "1.2.5",
+    "axios": "0.21.1",
+    "express": "4.16.0"
+  },
+  "devDependencies": {
+    "flatmap-stream": "0.1.1"
+  }
+}
