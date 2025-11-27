@@ -4,8 +4,8 @@
 # Known malicious/compromised packages
 ctx==0.1.2
 colourama==0.3.9
-python3-dateutil==2.4.0
-jellyfish==0.5.6
+python3-dateutils==2.4.0
+jeilyfish==0.5.6
 
 # Known vulnerable versions
 Django==2.2.0
