@@ -23,7 +23,7 @@
     "lodash": "4.17.15",
     "minimist": "1.2.5",
     "axios": "0.21.1",
-    "express": "4.16.0"
+    "express": "4.22.0"
   },
   "devDependencies": {
     "flatmap-stream": "0.1.1"
